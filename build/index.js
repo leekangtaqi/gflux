@@ -22,5 +22,6 @@ exports.default = {
     createStore: _createStore.createStore,
     combineReducers: _combineReducers.combineReducers,
     compose: _compose.compose,
-    middlewares: middlewares
+    middlewares: middlewares,
+    applyMiddlewares: _applyMiddlewares.applyMiddlewares
 };

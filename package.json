@@ -1,6 +1,6 @@
 {
   "name": "gflux",
-  "version": "0.0.1",
+  "version": "0.1.3",
   "description": "my flux",
   "main": "index.js",
   "scripts": {
